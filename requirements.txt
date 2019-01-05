@@ -6,7 +6,7 @@ python-dateutil
 objgraph
 requests
 lxml
-pandas
 numpy
+pandas
 sqlalchemy
 pika
