@@ -1,12 +1,10 @@
 BeautifulSoup4
-cython
 mysql-connector-python
 xmltodict
 python-dateutil
 objgraph
 requests
 lxml
-numpy
 pandas
 sqlalchemy
 pika
