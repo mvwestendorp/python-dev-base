@@ -8,3 +8,7 @@ lxml
 pandas
 sqlalchemy
 pika
+tika
+boto3
+botocore
+pymongo
