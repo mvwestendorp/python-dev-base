@@ -9,3 +9,8 @@ pandas
 sqlalchemy
 pika
 pytest
+tika
+boto3
+botocore
+pymongo
+
