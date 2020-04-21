@@ -13,4 +13,4 @@ tika
 boto3
 botocore
 pymongo
-
+aiohttp
