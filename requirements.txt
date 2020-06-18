@@ -15,3 +15,5 @@ botocore
 pymongo
 aiohttp
 minio
+tensorflow
+tensorflow-text
