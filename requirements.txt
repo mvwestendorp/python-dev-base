@@ -5,14 +5,9 @@ objgraph
 requests
 lxml
 pandas
-sqlalchemy
 pytest
-tika
 boto3
 botocore
-pymongo
 aiohttp
 minio
-tensorflow
-tensorflow-text
-pyspark
+findspark
