@@ -1,5 +1,4 @@
 BeautifulSoup4
-mysql-connector-python
 xmltodict
 python-dateutil
 objgraph
@@ -7,7 +6,6 @@ requests
 lxml
 pandas
 sqlalchemy
-pika
 pytest
 tika
 boto3
@@ -17,3 +15,4 @@ aiohttp
 minio
 tensorflow
 tensorflow-text
+pyspark
